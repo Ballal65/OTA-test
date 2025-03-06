@@ -3,6 +3,7 @@ from wifi import connect_to_internet, process_ap_mode
 from mqtt import connect_to_mqtt
 import machine, time, json
 
+#Test Comment for OTA
 button_pin = 26
 
 client = None
